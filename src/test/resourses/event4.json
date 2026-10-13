@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "data": [
+
+
+    {
+      "id": 283,
+      "title": "World Tech Summit",
+      "description": "A premier technology conference bringing together 500+ industry leaders, startup founders, and engineers for two days of keynotes, workshops, and networking. Topics include AI/ML, cloud infrastructure, DevSecOps, and the future of the Indian tech ecosystem.",
+      "category": "Conference",
+      "venue": "Hyderabad, Hitech city",
+      "city": "Hyderabad",
+      "eventDate": "2026-04-18T09:00:00.000Z",
+      "price": "1500",
+      "totalSeats": 500,
+      "availableSeats": 26,
+      "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+      "isStatic": true,
+      "userId": null,
+      "createdAt": "2026-09-14T02:39:14.852Z",
+      "updatedAt": "2026-09-29T00:04:38.518Z"
+    },
+    {
+      "id": 9559,
+      "title": "QA practice for advance level",
+      "description": "It is for QA Purpose",
+      "category": "Workshop",
+      "venue": "Anna Nagar",
+      "city": "Chennai",
+      "eventDate": "2026-10-25T07:00:00.000Z",
+      "price": "200",
+      "totalSeats": 400,
+      "availableSeats": 400,
+      "imageUrl": "https://playwright.dev/java/docs/locators",
+      "isStatic": false,
+      "userId": 49,
+      "createdAt": "2026-09-29T05:54:39.390Z",
+      "updatedAt": "2026-09-29T05:54:39.390Z"
+    },
+    {
+      "id": 9326,
+      "title": "TestEvent1790614487277",
+      "description": "Hello Event Description",
+      "category": "Concert",
+      "venue": "Test Venue",
+      "city": "Test City",
+      "eventDate": "2026-09-30T13:28:00.000Z",
+      "price": "100",
+      "totalSeats": 2,
+      "availableSeats": 2,
+      "imageUrl": null,
+      "isStatic": false,
+      "userId": 49,
+      "createdAt": "2026-09-28T16:54:48.845Z",
+      "updatedAt": "2026-09-28T16:54:48.845Z"
+    },
+    {
+      "id": 9214,
+      "title": "Sayan Mondal Party",
+      "description": "parent locator space child tag",
+      "category": "Conference",
+      "venue": "Gorer math",
+      "city": "Kolkata",
+      "eventDate": "2027-01-01T16:36:00.000Z",
+      "price": "20",
+      "totalSeats": 25,
+      "availableSeats": 22,
+      "imageUrl": null,
+      "isStatic": false,
+      "userId": 49,
+      "createdAt": "2026-09-28T13:52:42.249Z",
+      "updatedAt": "2026-09-28T14:33:52.363Z"
+    }
+
+
+  ],
+  "pagination": {
+    "total": 8,
+    "page": 1,
+    "limit": 12,
+    "totalPages": 1
+  }
+}
