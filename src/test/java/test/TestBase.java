@@ -46,7 +46,8 @@ public class TestBase {
 //Browser browser =playwright.firefox().launch(new BrowserType.LaunchOptions().setHeadless(false)) ;
 //to run on physical browser
             //  Browser browser =playwright.chromium().launch(new BrowserType.LaunchOptions().setChannel("chrome").setHeadless(false)) ;
-            browser =playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false)) ;
+//            browser =playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false)) ;
+            playwright.chromium().launch();
         }
 
         //headless mode
